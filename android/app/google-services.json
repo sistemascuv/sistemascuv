@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842393730031",
+    "project_id": "urvaseo-12775",
+    "storage_bucket": "urvaseo-12775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842393730031:android:72a4efa409ce5e51c2941a",
+        "android_client_info": {
+          "package_name": "com.example.websis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByla_kdTndcsdo8dIKGFL_c2CU0ZOtxBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
